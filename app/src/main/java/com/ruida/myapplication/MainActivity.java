@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         TextView mTV = findViewById(R.id.mTV);
         mTV.setText("第一个版本，先进行命令行提交");
 
+        mTV.setText("feifei提交");
     }
 }
